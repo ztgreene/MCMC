@@ -1,2 +1,2 @@
 # MCMC
-Markov Chain Monte Carlo using Mtrop[olis Algorithm
+Markov Chain Monte Carlo using Metropolis Algorithm
